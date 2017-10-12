@@ -5,3 +5,4 @@ first data line1
 
  - fix-B
 >>>>>>> fix-B
+featureC
